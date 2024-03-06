@@ -1,0 +1,34 @@
+.row .col {
+    height: 100px;
+}
+
+.card-section {
+    background-image: url(/Photos/Aamrai-green-bg-01.jpeg);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+
+span {
+    color: #D17025;
+}
+
+.btn {
+    background-color: #F49910;
+    border: #F49910;
+    border-radius: 20px;
+    padding: 12px 25px;
+}
+
+.btn:hover {
+    background-color: #61CE70;
+    color: white;
+}
+
+.organic-mangoes {
+    background-color: #F49910;
+}
+
+.btn-success {
+    background-color: #61CE70;
+}
